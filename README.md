@@ -1,2 +1,3 @@
-# muon-cuda
-CUDA Kernels for Muon Acceleration
+# inference-from-scratch
+
+Micro infratructure for serving LLMs from scratch
